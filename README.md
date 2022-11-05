@@ -6,6 +6,8 @@ com conhecimentos em:
 
 [![Almir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Almir-Araujo)](https://github.com/Almir-Araujo/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almir-Araujo&layout=compact)](https://github.com/Almir-Araujo/github-readme-stats)
+
 Se quiser conversar comigo ou conhecer melhor meu currículo, por favor, visite meu LinkedIn:
 
 <a href="https://www.linkedin.com/in/almiraraujo1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
