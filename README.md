@@ -12,10 +12,6 @@ Se quiser conversar comigo ou conhecer melhor meu currículo, por favor, visite 
 
 <a href="https://www.linkedin.com/in/almiraraujo1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Se preferir, também podemos nos conectar pelo Slack:
-
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-
 <!--
 **Almir-Araujo/Almir-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
