@@ -1,6 +1,13 @@
 ### Hi there 👋
 
+
+Se quiser conversar comigo, visite meu LinkedIn:
 <a href="https://www.linkedin.com/in/almiraraujo1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+Conhecimentos em
+
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
+" />
 
 <!--
 **Almir-Araujo/Almir-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
